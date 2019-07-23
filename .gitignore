@@ -1,0 +1,5 @@
+#Ignore these directories
+env/
+data/
+
+#Ignore these files
